@@ -1,4 +1,4 @@
-package dataStructures.arrayAndList;
+package dataStructures.rangeSum;
 
 import java.util.Scanner;
 
